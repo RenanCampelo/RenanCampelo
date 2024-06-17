@@ -16,8 +16,8 @@ Olá, sou Renan! 👋<br><br>
   <img align="center" alt="js" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
 </div><br/>
 
-📈 Estatísticas do GitHub
+📈 Estatísticas do GitHub:
 <div style="display: flex; justify-content: space-between;">
-  <img src="https://github-readme-stats.vercel.app/api?username=RenanCampelo&show_icons=true&theme=dark" alt="Your GitHub Stats" height="200px"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RenanCampelo&layout=compact&theme=dark" alt="Top Langs" height="200px"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=RenanCampelo&show_icons=true&theme=dark" alt="Your GitHub Stats" height="150px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RenanCampelo&layout=compact&theme=dark" alt="Top Langs" height="150px"/>
 </div>
