@@ -1,7 +1,7 @@
 Olá, sou Renan! 👋<br>
 Sou um desenvolvedor de FullStack apaixonado por criar soluções inovadoras. Aqui você encontrará alguns dos meus projetos e contribuições.<br>
 📚 Estudante de ADS <br>
-📚 Estudante de Ciência da Computação <br>
+📚 Estudante de Ciência da Computação <br><br>
 🚀 Minhas Habilidades:<br>
 <div style="display: inline_block">
   <img  align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
