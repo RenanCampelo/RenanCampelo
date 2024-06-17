@@ -1,5 +1,12 @@
 Olá, sou Renan! 👋<br><br>
-Sou um desenvolvedor de FullStack apaixonado por criar soluções inovadoras. Aqui você encontrará alguns dos meus projetos e contribuições.<br><br>
+💻 Estou iniciando minha jornada no desenvolvimento de software. Sempre em busca de novos conhecimentos na área. <br><br>
+🎯 Hobbies:<br>
+<ul>
+  <li>⚽ Apaixonado por futebol.</li>
+  <li>👪 Gosto de descontrair em momentos com familiares e amigos.</li>
+  <li>🎧 Curto ouvir músicas pra aliviar a mente.</li>
+</ul>
+<br>
 📚 Estudante de ADS <br>
 📚 Estudante de Ciência da Computação <br><br>
 🚀 Minhas Habilidades:<br>
