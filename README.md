@@ -1,5 +1,5 @@
 Olá, sou Renan! 👋<br><br>
-💻 Estou iniciando minha jornada no desenvolvimento de software. Sempre em busca de novos conhecimentos na área. <br><br>
+💻📈 Estou iniciando minha jornada no desenvolvimento de software. Sempre em busca de novos conhecimentos na área. <br><br>
 🎯 Hobbies:<br>
 <ul>
   <li>⚽ Apaixonado por futebol.</li>
