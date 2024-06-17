@@ -1,5 +1,5 @@
-Olá, sou Renan! 👋<br>
-Sou um desenvolvedor de FullStack apaixonado por criar soluções inovadoras. Aqui você encontrará alguns dos meus projetos e contribuições.<br>
+Olá, sou Renan! 👋<br><br>
+Sou um desenvolvedor de FullStack apaixonado por criar soluções inovadoras. Aqui você encontrará alguns dos meus projetos e contribuições.<br><br>
 📚 Estudante de ADS <br>
 📚 Estudante de Ciência da Computação <br><br>
 🚀 Minhas Habilidades:<br>
